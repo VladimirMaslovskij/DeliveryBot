@@ -1,0 +1,8 @@
+org\example\config\MyGeocoder.class
+org\example\config\BotConfig.class
+org\example\config\BotInitializer.class
+org\example\model\UserStateRepository.class
+org\example\DeliveryBotApplication.class
+org\example\service\TelegramBot.class
+org\example\config\JsonReader.class
+org\example\model\UserState.class
